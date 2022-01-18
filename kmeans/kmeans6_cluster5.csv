@@ -1,0 +1,1048 @@
+Instance_number,DATE,TIME,Road_type,ENVIRONMENT,LIGHT,SURFACE_CONDITION,TRAFFIC_CONTROL,COLLISION_CLASSIFICATION,IMPACT_TYPE,Location,NO_OF_PEDESTRIANS,Cluster
+50,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','06 - SMV unattended vehicle',Ottawa_west,0,cluster5
+61,Weekday,Morning,Road,'01 - Clear','07 - Dark','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',mid_town,1,cluster5
+73,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',mid_town,0,cluster5
+76,Weekends,Night,Road,'01 - Clear','01 - Daylight','03 - Loose snow','01 - Traffic signal','P.D. only','05 - Turning movement',downtown,0,cluster5
+77,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',Ottawa_east,0,cluster5
+78,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',mid_town,0,cluster5
+81,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',Ottawa_south,0,cluster5
+84,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',Ottawa_west,0,cluster5
+85,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'02 - Angle',downtown,0,cluster5
+103,Weekday,Night,Road,'01 - Clear','05 - Dusk','03 - Loose snow','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+105,Weekday,Night,Road,'01 - Clear','05 - Dusk','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',Ottawa_east,0,cluster5
+110,Weekday,Night,Road,'01 - Clear','05 - Dusk','04 - Slush','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+149,Weekends,Night,Road,'02 - Rain','05 - Dusk','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',Ottawa_east,0,cluster5
+154,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',Ottawa_west,0,cluster5
+155,Weekday,Noon,Road,'04 - Freezing Rain','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',Ottawa_south,0,cluster5
+158,Weekends,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',Ottawa_west,0,cluster5
+162,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+167,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+170,Weekday,Evening,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+217,Weekday,Noon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+219,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','99 - Other',Ottawa_west,0,cluster5
+232,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',mid_town,1,cluster5
+242,Weekday,Evening,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+254,Weekday,Night,Road,'01 - Clear','01 - Daylight','99 - Other','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+256,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+262,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+271,Weekday,Noon,Road,'01 - Clear','03 - Dawn','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',Ottawa_south,0,cluster5
+273,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',Ottawa_west,0,cluster5
+274,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',mid_town,0,cluster5
+275,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',mid_town,0,cluster5
+298,Weekday,Night,highway,'01 - Clear','01 - Daylight','06 - Ice','01 - Traffic signal','P.D. only','05 - Turning movement',downtown,0,cluster5
+302,Weekday,Night,Road,'01 - Clear','01 - Daylight','06 - Ice','01 - Traffic signal',Injury,'02 - Angle',mid_town,0,cluster5
+303,Weekday,Night,Road,'01 - Clear','05 - Dusk','02 - Wet','10 - No control',Injury,'07 - SMV other',mid_town,0,cluster5
+307,Weekday,Night,Road,'03 - Snow','05 - Dusk','02 - Wet','01 - Traffic signal',Injury,'05 - Turning movement',mid_town,0,cluster5
+314,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','01 - Traffic signal',Injury,'02 - Angle',downtown,0,cluster5
+315,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','01 - Traffic signal','P.D. only','99 - Other',downtown,0,cluster5
+322,Weekday,Noon,highway,'01 - Clear','01 - Daylight','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_east,0,cluster5
+328,Weekday,Noon,highway,'01 - Clear','03 - Dawn','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',Ottawa_west,0,cluster5
+329,Weekday,Noon,highway,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+330,Weekday,Afternoon,Road,'03 - Snow','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+344,Weekday,Night,Road,'03 - Snow','01 - Daylight','03 - Loose snow','01 - Traffic signal','P.D. only','05 - Turning movement',downtown,0,cluster5
+354,Weekday,Night,Road,'03 - Snow','07 - Dark','02 - Wet','01 - Traffic signal',Injury,'02 - Angle',downtown,0,cluster5
+375,Weekday,Evening,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+404,Weekday,Noon,Road,'01 - Clear','01 - Daylight','06 - Ice','01 - Traffic signal','P.D. only','07 - SMV other',Ottawa_west,0,cluster5
+408,Weekday,Noon,Road,'01 - Clear','01 - Daylight','06 - Ice','01 - Traffic signal','P.D. only','07 - SMV other',mid_town,0,cluster5
+415,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','06 - Ice','02 - Stop sign','P.D. only','07 - SMV other',Ottawa_west,0,cluster5
+453,Weekday,Night,Road,'01 - Clear','05 - Dusk','04 - Slush','01 - Traffic signal','P.D. only','01 - Approaching',downtown,0,cluster5
+469,Weekday,Night,Road,'01 - Clear','05 - Dusk','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+481,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',downtown,0,cluster5
+485,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+486,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','02 - Stop sign',Injury,'07 - SMV other',downtown,1,cluster5
+497,Weekday,Early_Morning,Road,'05 - Drifting Snow','07 - Dark','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',mid_town,0,cluster5
+503,Weekday,Night,Road,'01 - Clear','05 - Dusk','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',mid_town,0,cluster5
+508,Weekday,Night,Road,'01 - Clear','05 - Dusk','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',Ottawa_east,1,cluster5
+510,Weekday,Night,Road,'01 - Clear','05 - Dusk','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+511,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_west,0,cluster5
+518,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','02 - Stop sign',Injury,'02 - Angle',Ottawa_south,0,cluster5
+526,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','06 - SMV unattended vehicle',downtown,0,cluster5
+528,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+529,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_west,0,cluster5
+535,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+544,Weekday,Night,Road,'01 - Clear','05 - Dusk','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',downtown,0,cluster5
+546,Weekday,Night,Road,'01 - Clear','05 - Dusk','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+556,Weekday,Morning,Road,'01 - Clear','07 - Dark','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_south,0,cluster5
+558,Weekday,Night,Road,'01 - Clear','05 - Dusk','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_west,0,cluster5
+565,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',Ottawa_west,0,cluster5
+567,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_west,0,cluster5
+571,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+572,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','05 - Turning movement',downtown,0,cluster5
+573,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','06 - Ice','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+575,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',downtown,0,cluster5
+582,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',downtown,0,cluster5
+592,Weekday,Night,Road,'01 - Clear','05 - Dusk','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+597,Weekday,Noon,Road,'02 - Rain','07 - Dark','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+600,Weekday,Noon,Road,'01 - Clear','03 - Dawn','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+603,Weekday,Afternoon,highway,'01 - Clear','01 - Daylight','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_west,0,cluster5
+620,Weekday,Night,Road,'03 - Snow','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',downtown,0,cluster5
+626,Weekday,Night,Road,'01 - Clear','05 - Dusk','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+646,Weekends,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',mid_town,0,cluster5
+680,Weekday,Noon,Road,'01 - Clear','03 - Dawn','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+687,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',Ottawa_west,0,cluster5
+701,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','06 - Ice','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+703,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+737,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+738,Weekday,Noon,Road,'01 - Clear','01 - Daylight','00 - Unknown','01 - Traffic signal',Injury,'07 - SMV other',mid_town,1,cluster5
+759,Weekday,Night,highway,'01 - Clear','05 - Dusk','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+766,Weekday,Night,Road,'01 - Clear','05 - Dusk','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',mid_town,0,cluster5
+768,Weekday,Night,Road,'01 - Clear','05 - Dusk','02 - Wet','01 - Traffic signal',Injury,'05 - Turning movement',Ottawa_west,0,cluster5
+769,Weekday,Night,Road,'01 - Clear','05 - Dusk','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',Ottawa_south,0,cluster5
+775,Weekday,Night,Road,'03 - Snow','07 - Dark','02 - Wet','02 - Stop sign','P.D. only','07 - SMV other',Ottawa_west,0,cluster5
+780,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',downtown,0,cluster5
+802,Weekday,Evening,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+804,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','02 - Stop sign',Injury,'07 - SMV other',Ottawa_east,2,cluster5
+806,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',mid_town,0,cluster5
+809,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+813,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','10 - No control','P.D. only','07 - SMV other',mid_town,0,cluster5
+814,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+820,Weekday,Night,Road,'02 - Rain','05 - Dusk','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+822,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','10 - No control',Injury,'07 - SMV other',downtown,1,cluster5
+825,Weekday,Night,Road,'02 - Rain','07 - Dark','02 - Wet','02 - Stop sign',Injury,'02 - Angle',Ottawa_south,0,cluster5
+856,Weekends,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+888,Weekends,Night,Road,'01 - Clear','01 - Daylight','04 - Slush','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+889,Weekends,Night,Road,'01 - Clear','01 - Daylight','03 - Loose snow','01 - Traffic signal','P.D. only','05 - Turning movement',Ottawa_east,0,cluster5
+892,Weekends,Night,Road,'01 - Clear','01 - Daylight','04 - Slush','01 - Traffic signal',Injury,'99 - Other',mid_town,0,cluster5
+896,Weekends,Night,Road,'02 - Rain','07 - Dark','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',mid_town,0,cluster5
+933,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+947,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',mid_town,1,cluster5
+961,Weekday,Night,Road,'01 - Clear','05 - Dusk','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_south,0,cluster5
+980,Weekday,Evening,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+1031,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'03 - Rear end',downtown,0,cluster5
+1048,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+1053,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',downtown,0,cluster5
+1056,Weekday,Evening,Road,'01 - Clear','01 - Daylight','06 - Ice','01 - Traffic signal',Injury,'02 - Angle',downtown,0,cluster5
+1072,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+1073,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',mid_town,0,cluster5
+1117,Weekday,Night,Road,'04 - Freezing Rain','01 - Daylight','02 - Wet','10 - No control',Injury,'07 - SMV other',downtown,1,cluster5
+1142,Weekday,Night,Road,'01 - Clear','05 - Dusk','02 - Wet','01 - Traffic signal',Injury,'05 - Turning movement',mid_town,0,cluster5
+1146,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','10 - No control',Injury,'07 - SMV other',downtown,0,cluster5
+1149,Weekday,Night,Road,'02 - Rain','05 - Dusk','02 - Wet','10 - No control',Injury,'07 - SMV other',Ottawa_west,0,cluster5
+1160,Weekday,Night,Road,'03 - Snow','01 - Daylight','03 - Loose snow','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+1164,Weekends,Night,Road,'01 - Clear','01 - Daylight','03 - Loose snow','01 - Traffic signal',Injury,'02 - Angle',downtown,0,cluster5
+1167,Weekday,Night,Road,'01 - Clear','05 - Dusk','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',downtown,0,cluster5
+1182,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',Ottawa_east,0,cluster5
+1183,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','02 - Stop sign',Injury,'07 - SMV other',mid_town,0,cluster5
+1184,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',mid_town,1,cluster5
+1187,Weekday,Night,Road,'02 - Rain','07 - Dark','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_west,0,cluster5
+1198,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',Ottawa_south,0,cluster5
+1208,Weekday,Night,Road,'01 - Clear','05 - Dusk','06 - Ice','01 - Traffic signal','P.D. only','07 - SMV other',Ottawa_west,0,cluster5
+1238,Weekday,Evening,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+1244,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+1301,Weekday,Night,Road,'03 - Snow','01 - Daylight','03 - Loose snow','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+1319,Weekday,Night,Road,'03 - Snow','01 - Daylight','03 - Loose snow','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+1330,Weekday,Night,Road,'03 - Snow','05 - Dusk','03 - Loose snow','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+1334,Weekday,Night,Road,'06 - Strong wind','05 - Dusk','05 - Packed snow','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+1395,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+1408,Weekends,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+1413,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',downtown,0,cluster5
+1482,Weekday,Evening,Road,'03 - Snow','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+1536,Weekday,Night,Road,'01 - Clear','01 - Daylight','06 - Ice','11 - Roundabout','P.D. only','07 - SMV other',Ottawa_east,0,cluster5
+1540,Weekday,Night,Road,'01 - Clear','01 - Daylight','06 - Ice','01 - Traffic signal','P.D. only','07 - SMV other',Ottawa_west,0,cluster5
+1546,Weekends,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','02 - Stop sign',Injury,'07 - SMV other',downtown,1,cluster5
+1552,Weekday,Early_Morning,Road,'01 - Clear','07 - Dark','02 - Wet','10 - No control','P.D. only','07 - SMV other',downtown,0,cluster5
+1554,Weekday,Noon,Road,'01 - Clear','03 - Dawn','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+1561,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+1595,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+1601,Weekends,Night,Road,'01 - Clear','07 - Dark','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+1621,Weekday,Night,Road,'03 - Snow','01 - Daylight','05 - Packed snow','01 - Traffic signal','P.D. only','99 - Other',downtown,0,cluster5
+1656,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+1724,Weekends,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+1739,Weekday,Afternoon,Road,'03 - Snow','01 - Daylight','04 - Slush','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+1740,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','06 - SMV unattended vehicle',downtown,0,cluster5
+1761,Weekday,Night,Road,'01 - Clear','01 - Daylight','04 - Slush','01 - Traffic signal','P.D. only','99 - Other',downtown,0,cluster5
+1762,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_east,0,cluster5
+1777,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',mid_town,0,cluster5
+1829,Weekday,Noon,Road,'03 - Snow','01 - Daylight','06 - Ice','01 - Traffic signal',Injury,'02 - Angle',downtown,0,cluster5
+1838,Weekday,Afternoon,Road,'05 - Drifting Snow','01 - Daylight','05 - Packed snow','01 - Traffic signal',Injury,'07 - SMV other',downtown,0,cluster5
+1843,Weekday,Afternoon,Road,'03 - Snow','01 - Daylight','05 - Packed snow','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+1867,Weekends,Night,Road,'01 - Clear','01 - Daylight','03 - Loose snow','01 - Traffic signal','P.D. only','05 - Turning movement',downtown,0,cluster5
+1882,Weekday,Noon,Road,'01 - Clear','03 - Dawn','02 - Wet','01 - Traffic signal',Injury,'03 - Rear end',Ottawa_east,0,cluster5
+1883,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',Ottawa_east,0,cluster5
+1949,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',mid_town,0,cluster5
+1950,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+1953,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','06 - Ice','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+1956,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','10 - No control','P.D. only','07 - SMV other',downtown,0,cluster5
+1962,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'03 - Rear end',downtown,0,cluster5
+1965,Weekday,Night,Road,'02 - Rain','05 - Dusk','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+1980,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',downtown,0,cluster5
+1982,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',downtown,0,cluster5
+2000,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_west,0,cluster5
+2011,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','01 - Traffic signal',Injury,'03 - Rear end',downtown,0,cluster5
+2025,Weekends,Afternoon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+2110,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',downtown,0,cluster5
+2113,Weekday,Night,Road,'03 - Snow','01 - Daylight','03 - Loose snow','01 - Traffic signal','P.D. only','05 - Turning movement',downtown,0,cluster5
+2116,Weekends,Night,Road,'03 - Snow','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+2125,Weekday,Afternoon,Road,'05 - Drifting Snow','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',mid_town,0,cluster5
+2129,Weekday,Night,Road,'01 - Clear','05 - Dusk','03 - Loose snow','01 - Traffic signal','P.D. only','02 - Angle',mid_town,0,cluster5
+2137,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'03 - Rear end',Ottawa_west,0,cluster5
+2147,Weekday,Evening,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',downtown,0,cluster5
+2148,Weekday,Night,Road,'03 - Snow','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+2151,Weekday,Night,Road,'03 - Snow','01 - Daylight','03 - Loose snow','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+2155,Weekday,Night,Road,'02 - Rain','05 - Dusk','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+2158,Weekday,Night,Road,'03 - Snow','07 - Dark','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+2172,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_west,0,cluster5
+2176,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','02 - Stop sign',Injury,'02 - Angle',downtown,0,cluster5
+2182,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'02 - Angle',downtown,0,cluster5
+2183,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','07 - SMV other',mid_town,0,cluster5
+2204,Weekday,Night,Road,'03 - Snow','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+2207,Weekday,Night,Road,'03 - Snow','01 - Daylight','02 - Wet','02 - Stop sign',Injury,'02 - Angle',downtown,0,cluster5
+2210,Weekday,Night,Road,'01 - Clear','05 - Dusk','02 - Wet','01 - Traffic signal',Injury,'05 - Turning movement',Ottawa_south,0,cluster5
+2213,Weekday,Night,Road,'01 - Clear','05 - Dusk','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_west,0,cluster5
+2219,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',Ottawa_east,0,cluster5
+2244,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+2247,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet',Unknown,'P.D. only','02 - Angle',Ottawa_east,0,cluster5
+2253,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+2256,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',mid_town,0,cluster5
+2310,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+2315,Weekday,Evening,highway,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',Ottawa_west,0,cluster5
+2322,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','07 - SMV other',mid_town,0,cluster5
+2323,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'02 - Angle',mid_town,0,cluster5
+2326,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','01 - Traffic signal',Injury,'02 - Angle',Ottawa_west,0,cluster5
+2335,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+2338,Weekends,Night,highway,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+2348,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+2380,Weekday,Night,Road,'01 - Clear','05 - Dusk','02 - Wet','01 - Traffic signal',Injury,'03 - Rear end',downtown,0,cluster5
+2393,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_west,0,cluster5
+2397,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'02 - Angle',downtown,0,cluster5
+2398,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',Ottawa_south,1,cluster5
+2402,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+2413,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',mid_town,0,cluster5
+2418,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal','P.D. only','07 - SMV other',mid_town,0,cluster5
+2422,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','10 - No control',Injury,'07 - SMV other',Ottawa_east,0,cluster5
+2423,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+2435,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_west,0,cluster5
+2436,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'05 - Turning movement',mid_town,0,cluster5
+2447,Weekday,Night,Road,'03 - Snow','07 - Dark','02 - Wet','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+2459,Weekday,Night,Road,'01 - Clear','05 - Dusk','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',downtown,0,cluster5
+2498,Weekends,Night,Road,'07 - Fog/mist/smoke/dust','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+2502,Weekends,Night,Road,'01 - Clear','07 - Dark','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',Ottawa_south,0,cluster5
+2509,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+2511,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_south,0,cluster5
+2512,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+2520,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',mid_town,0,cluster5
+2535,Weekday,Noon,highway,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_west,0,cluster5
+2566,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+2571,Weekday,Night,Road,'01 - Clear','05 - Dusk','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+2580,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+2589,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',downtown,0,cluster5
+2594,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'05 - Turning movement',downtown,0,cluster5
+2599,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+2600,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+2617,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',downtown,0,cluster5
+2621,Weekday,Evening,highway,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','07 - SMV other',Ottawa_west,0,cluster5
+2626,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',Ottawa_south,0,cluster5
+2629,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+2638,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'03 - Rear end',downtown,0,cluster5
+2643,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','02 - Stop sign',Injury,'07 - SMV other',downtown,1,cluster5
+2708,Weekday,Night,Road,'03 - Snow','01 - Daylight','03 - Loose snow','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+2715,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',downtown,0,cluster5
+2729,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+2736,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_west,0,cluster5
+2742,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+2749,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',mid_town,0,cluster5
+2752,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_east,0,cluster5
+2754,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+2756,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+2769,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','10 - No control',Injury,'07 - SMV other',downtown,1,cluster5
+2770,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'05 - Turning movement',downtown,0,cluster5
+2772,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+2784,Weekday,Night,Road,'01 - Clear','01 - Daylight','07 - Mud','03 - Yield sign',Injury,'07 - SMV other',Ottawa_south,0,cluster5
+2824,Weekday,Afternoon,Road,'05 - Drifting Snow','01 - Daylight','03 - Loose snow','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+2830,Weekday,Afternoon,highway,'01 - Clear','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',Ottawa_west,0,cluster5
+2831,Weekday,Evening,Road,'03 - Snow','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',downtown,0,cluster5
+2841,Weekday,Evening,Road,'03 - Snow','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+2894,Weekday,Early_Morning,Road,'01 - Clear','07 - Dark','02 - Wet','10 - No control','P.D. only','07 - SMV other',downtown,0,cluster5
+2906,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',downtown,0,cluster5
+2907,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+2910,Weekday,Night,highway,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+2912,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+2944,Weekday,Noon,Road,'03 - Snow','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+2945,Weekday,Evening,Road,'05 - Drifting Snow','01 - Daylight','05 - Packed snow','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+3006,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',mid_town,0,cluster5
+3008,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',mid_town,1,cluster5
+3017,Weekday,Night,Road,'01 - Clear','05 - Dusk','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+3027,Weekday,Morning,Road,'02 - Rain','07 - Dark','02 - Wet','02 - Stop sign','P.D. only','07 - SMV other',Ottawa_south,0,cluster5
+3041,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+3049,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',downtown,0,cluster5
+3074,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+3078,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+3088,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',Ottawa_south,0,cluster5
+3097,Weekday,Evening,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+3185,Weekday,Noon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',Ottawa_west,0,cluster5
+3198,Weekends,Noon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal','P.D. only','07 - SMV other',Ottawa_west,0,cluster5
+3229,Weekday,Early_Morning,Road,'02 - Rain','07 - Dark','02 - Wet','10 - No control',Injury,'07 - SMV other',downtown,0,cluster5
+3279,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+3341,Weekday,Noon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+3368,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_west,0,cluster5
+3371,Weekday,Noon,Road,'03 - Snow','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',Ottawa_west,0,cluster5
+3373,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+3374,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+3376,Weekday,Noon,Road,'03 - Snow','01 - Daylight','06 - Ice','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+3381,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+3382,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',downtown,0,cluster5
+3396,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',Ottawa_south,0,cluster5
+3487,Weekday,Noon,Road,'03 - Snow','01 - Daylight','06 - Ice','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+3495,Weekday,Noon,Road,'01 - Clear','01 - Daylight','06 - Ice','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+3518,Weekday,Afternoon,highway,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+3520,Weekday,Night,highway,'01 - Clear','05 - Dusk','02 - Wet','01 - Traffic signal',Injury,'03 - Rear end',Ottawa_west,0,cluster5
+3521,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',mid_town,0,cluster5
+3533,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'02 - Angle',Ottawa_west,0,cluster5
+3543,Weekday,Night,Road,'03 - Snow','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+3547,Weekday,Night,Road,'03 - Snow','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',Ottawa_west,0,cluster5
+3549,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+3551,Weekday,Night,Road,'03 - Snow','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+3552,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',mid_town,0,cluster5
+3556,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+3561,Weekday,Night,Road,'03 - Snow','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',mid_town,0,cluster5
+3570,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+3571,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+3572,Weekday,Noon,Road,'03 - Snow','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',Ottawa_west,0,cluster5
+3573,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',downtown,0,cluster5
+3586,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','02 - Stop sign',Injury,'02 - Angle',mid_town,0,cluster5
+3663,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+3686,Weekday,Afternoon,Road,'04 - Freezing Rain','01 - Daylight','04 - Slush','01 - Traffic signal','P.D. only','07 - SMV other',Ottawa_west,0,cluster5
+3699,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal','P.D. only','07 - SMV other',Ottawa_west,0,cluster5
+3741,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+3780,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+3860,Weekday,Noon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+3912,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,0,cluster5
+3971,Weekday,Night,highway,'03 - Snow','01 - Daylight','03 - Loose snow','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+3980,Weekday,Night,Road,'03 - Snow','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'05 - Turning movement',Ottawa_south,0,cluster5
+3982,Weekday,Night,Road,'03 - Snow','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+4025,Weekday,Evening,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','99 - Other',downtown,0,cluster5
+4082,Weekday,Noon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',Ottawa_south,1,cluster5
+4083,Weekday,Noon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+4125,Weekday,Evening,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+4126,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',downtown,0,cluster5
+4135,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','07 - SMV other',Ottawa_east,0,cluster5
+4147,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'02 - Angle',Ottawa_west,0,cluster5
+4224,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+4225,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'02 - Angle',mid_town,0,cluster5
+4226,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+4227,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','10 - No control',Injury,'07 - SMV other',downtown,1,cluster5
+4228,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','03 - Yield sign','P.D. only','02 - Angle',downtown,0,cluster5
+4233,Weekday,Evening,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',downtown,0,cluster5
+4264,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_west,0,cluster5
+4268,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign',Injury,'02 - Angle',Ottawa_south,0,cluster5
+4287,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',downtown,0,cluster5
+4292,Weekday,Night,Road,'04 - Freezing Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'02 - Angle',Ottawa_west,0,cluster5
+4294,Weekday,Evening,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+4302,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','07 - SMV other',mid_town,0,cluster5
+4306,Weekday,Night,Road,'04 - Freezing Rain','01 - Daylight','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_west,0,cluster5
+4307,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',downtown,0,cluster5
+4341,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'05 - Turning movement',Ottawa_west,0,cluster5
+4346,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+4350,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',mid_town,0,cluster5
+4353,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+4358,Weekday,Night,highway,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign',Injury,'07 - SMV other',Ottawa_east,0,cluster5
+4362,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',downtown,0,cluster5
+4371,Weekday,Mid_Night,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',Ottawa_south,0,cluster5
+4372,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+4392,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',mid_town,0,cluster5
+4403,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'03 - Rear end',downtown,0,cluster5
+4408,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',mid_town,0,cluster5
+4413,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','10 - No control',Injury,'07 - SMV other',downtown,1,cluster5
+4417,Weekday,Night,Road,'02 - Rain','05 - Dusk','02 - Wet','02 - Stop sign','P.D. only','99 - Other',mid_town,0,cluster5
+4437,Weekday,Evening,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+4458,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+4486,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_south,0,cluster5
+4514,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_west,0,cluster5
+4547,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','02 - Stop sign',Injury,'07 - SMV other',Ottawa_east,1,cluster5
+4555,Weekends,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+4557,Weekends,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',Ottawa_west,0,cluster5
+4590,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_south,0,cluster5
+4622,Weekends,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',Ottawa_west,1,cluster5
+4623,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','07 - SMV other',Ottawa_west,0,cluster5
+4647,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_south,0,cluster5
+4694,Weekday,Evening,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+4730,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',mid_town,0,cluster5
+4732,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal','P.D. only','07 - SMV other',downtown,1,cluster5
+4755,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+4759,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',Ottawa_east,0,cluster5
+4761,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',mid_town,0,cluster5
+4762,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',downtown,0,cluster5
+4815,Weekday,Noon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+4828,Weekday,Noon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+4866,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,2,cluster5
+4884,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+4893,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'05 - Turning movement',mid_town,0,cluster5
+4894,Weekday,Noon,highway,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',Ottawa_east,0,cluster5
+4895,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+4896,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'02 - Angle',mid_town,0,cluster5
+4897,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'02 - Angle',Ottawa_west,0,cluster5
+4898,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+4902,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','07 - SMV other',Ottawa_east,0,cluster5
+4905,Weekday,Noon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+4909,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'05 - Turning movement',downtown,0,cluster5
+4911,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',downtown,0,cluster5
+4913,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+4969,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+5007,Weekday,Mid_Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'02 - Angle',downtown,0,cluster5
+5012,Weekends,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+5017,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',mid_town,0,cluster5
+5051,Weekday,Evening,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+5072,Weekday,Evening,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+5075,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_east,0,cluster5
+5121,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',downtown,0,cluster5
+5141,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal','P.D. only','07 - SMV other',Ottawa_west,1,cluster5
+5153,Weekday,Morning,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_south,0,cluster5
+5158,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'03 - Rear end',downtown,0,cluster5
+5161,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'02 - Angle',Ottawa_east,0,cluster5
+5178,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+5212,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_east,0,cluster5
+5225,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',mid_town,0,cluster5
+5227,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',Ottawa_south,0,cluster5
+5243,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',Ottawa_west,1,cluster5
+5259,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+5308,Weekends,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+5312,Weekends,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',mid_town,0,cluster5
+5317,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_east,0,cluster5
+5335,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+5340,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+5349,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'02 - Angle',mid_town,0,cluster5
+5351,Weekday,Evening,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',downtown,0,cluster5
+5364,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',Ottawa_south,0,cluster5
+5366,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',downtown,0,cluster5
+5367,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+5373,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'05 - Turning movement',Ottawa_south,0,cluster5
+5374,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'03 - Rear end',Ottawa_west,0,cluster5
+5376,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_east,0,cluster5
+5378,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'05 - Turning movement',downtown,0,cluster5
+5379,Weekday,Night,highway,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+5381,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+5382,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+5384,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',mid_town,0,cluster5
+5386,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+5387,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_west,0,cluster5
+5395,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+5409,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+5438,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',mid_town,0,cluster5
+5459,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_west,0,cluster5
+5467,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal','P.D. only','07 - SMV other',Ottawa_south,0,cluster5
+5497,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','01 - Approaching',mid_town,0,cluster5
+5499,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+5501,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign',Injury,'02 - Angle',downtown,0,cluster5
+5503,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_south,0,cluster5
+5518,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'03 - Rear end',mid_town,0,cluster5
+5520,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_south,0,cluster5
+5523,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign',Injury,'02 - Angle',downtown,0,cluster5
+5530,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_west,0,cluster5
+5541,Weekends,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',Ottawa_south,0,cluster5
+5550,Weekends,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','07 - SMV other',downtown,0,cluster5
+5571,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',downtown,0,cluster5
+5575,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',Ottawa_east,0,cluster5
+5583,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',Ottawa_east,0,cluster5
+5584,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','03 - Yield sign','P.D. only','07 - SMV other',mid_town,0,cluster5
+5587,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'05 - Turning movement',mid_town,0,cluster5
+5588,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_west,0,cluster5
+5589,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','07 - SMV other',Ottawa_south,0,cluster5
+5590,Weekday,Mid_Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+5597,Weekday,Evening,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+5598,Weekday,Afternoon,highway,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+5609,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+5611,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_south,0,cluster5
+5618,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+5620,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'03 - Rear end',downtown,0,cluster5
+5638,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'02 - Angle',downtown,0,cluster5
+5647,Weekday,Evening,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','07 - SMV other',downtown,1,cluster5
+5648,Weekday,Noon,Road,'01 - Clear','01 - Daylight','09 - Spilled liquid','01 - Traffic signal','P.D. only','07 - SMV other',mid_town,0,cluster5
+5669,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+5670,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',mid_town,0,cluster5
+5684,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','05 - Turning movement',downtown,0,cluster5
+5688,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+5691,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',Ottawa_west,0,cluster5
+5698,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+5703,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','10 - No control',Injury,'07 - SMV other',Ottawa_west,0,cluster5
+5704,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+5707,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign',Injury,'02 - Angle',Ottawa_south,0,cluster5
+5714,Weekday,Evening,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',Ottawa_south,0,cluster5
+5787,Weekday,Evening,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'02 - Angle',Ottawa_south,0,cluster5
+5792,Weekday,Evening,highway,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign',Injury,'07 - SMV other',downtown,1,cluster5
+5794,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',downtown,0,cluster5
+5796,Weekday,Evening,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+5803,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',mid_town,0,cluster5
+5841,Weekends,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+5878,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+5896,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+5898,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',Ottawa_west,0,cluster5
+5899,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+5900,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',mid_town,0,cluster5
+5904,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',mid_town,0,cluster5
+5909,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign',Injury,'02 - Angle',Ottawa_south,0,cluster5
+5910,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+5912,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',downtown,0,cluster5
+5915,Weekday,Evening,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','07 - SMV other',downtown,0,cluster5
+5916,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','05 - Turning movement',downtown,0,cluster5
+5918,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+5920,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',downtown,0,cluster5
+5924,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',Ottawa_west,0,cluster5
+5926,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','07 - SMV other',mid_town,0,cluster5
+5928,Weekday,Night,highway,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+5931,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_west,0,cluster5
+5957,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_west,0,cluster5
+5958,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',Ottawa_south,0,cluster5
+5960,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'03 - Rear end',Ottawa_east,0,cluster5
+5961,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_south,0,cluster5
+5962,Weekday,Mid_Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+5969,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+6000,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+6006,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',downtown,0,cluster5
+6014,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_east,0,cluster5
+6017,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+6018,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',Ottawa_west,0,cluster5
+6019,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign',Injury,'02 - Angle',downtown,0,cluster5
+6068,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+6070,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+6071,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_south,0,cluster5
+6079,Weekday,Noon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal','P.D. only','07 - SMV other',downtown,1,cluster5
+6086,Weekday,Noon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+6107,Weekday,Noon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+6139,Weekday,Afternoon,highway,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_west,0,cluster5
+6229,Weekday,Noon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+6287,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_west,0,cluster5
+6303,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+6318,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',Ottawa_east,0,cluster5
+6358,Weekends,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+6369,Weekends,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+6447,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+6452,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_west,0,cluster5
+6459,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',Ottawa_west,0,cluster5
+6490,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+6491,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_east,0,cluster5
+6493,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_east,0,cluster5
+6496,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',Ottawa_west,0,cluster5
+6497,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+6498,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'05 - Turning movement',Ottawa_west,0,cluster5
+6506,Weekday,Noon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+6603,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,0,cluster5
+6619,Weekday,Noon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+6652,Weekends,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',mid_town,0,cluster5
+6658,Weekends,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+6660,Weekends,Night,Road,'07 - Fog/mist/smoke/dust','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'02 - Angle',mid_town,0,cluster5
+6696,Weekday,Noon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+6733,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+6746,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+6760,Weekday,Noon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+6762,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+6782,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+6805,Weekends,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',Ottawa_west,0,cluster5
+6807,Weekends,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',mid_town,0,cluster5
+6815,Weekday,Early_Morning,Road,'02 - Rain','07 - Dark','02 - Wet','01 - Traffic signal','P.D. only','07 - SMV other',mid_town,0,cluster5
+6858,Weekday,Evening,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+6863,Weekday,Evening,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+6887,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',mid_town,0,cluster5
+6888,Weekday,Mid_Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',Ottawa_east,0,cluster5
+6912,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',Ottawa_west,0,cluster5
+6914,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'03 - Rear end',downtown,0,cluster5
+6916,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+6918,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_west,0,cluster5
+6920,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_east,0,cluster5
+6926,Weekday,Evening,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+6928,Weekday,Evening,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',downtown,0,cluster5
+6930,Weekday,Evening,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',Ottawa_west,0,cluster5
+6931,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',Ottawa_east,0,cluster5
+6944,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'03 - Rear end',mid_town,0,cluster5
+6982,Weekday,Mid_Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','07 - SMV other',Ottawa_east,0,cluster5
+6988,Weekday,Evening,Road,'00 - Unknown','01 - Daylight','00 - Unknown','01 - Traffic signal',Injury,'99 - Other',downtown,0,cluster5
+7025,Weekday,Mid_Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+7047,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'03 - Rear end',Ottawa_south,0,cluster5
+7080,Weekends,Noon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+7123,Weekday,Evening,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+7129,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',Ottawa_west,0,cluster5
+7148,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+7149,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',mid_town,0,cluster5
+7151,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_west,0,cluster5
+7154,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+7168,Weekday,Noon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+7176,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','07 - SMV other',Ottawa_south,0,cluster5
+7211,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'03 - Rear end',downtown,0,cluster5
+7212,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_west,0,cluster5
+7213,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+7214,Weekday,Night,highway,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'03 - Rear end',mid_town,0,cluster5
+7216,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_east,0,cluster5
+7218,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+7219,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',downtown,0,cluster5
+7221,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+7231,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'03 - Rear end',Ottawa_east,0,cluster5
+7296,Weekday,Night,highway,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_south,0,cluster5
+7311,Weekends,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','07 - SMV other',Ottawa_west,0,cluster5
+7321,Weekday,Mid_Night,highway,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_west,0,cluster5
+7339,Weekday,Evening,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'05 - Turning movement',downtown,0,cluster5
+7343,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',mid_town,0,cluster5
+7344,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+7345,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+7346,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+7349,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'02 - Angle',downtown,0,cluster5
+7350,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign',Injury,'02 - Angle',downtown,0,cluster5
+7351,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+7353,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_west,0,cluster5
+7405,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+7420,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+7483,Weekends,Afternoon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal','P.D. only','07 - SMV other',Ottawa_east,0,cluster5
+7484,Weekends,Afternoon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+7507,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',mid_town,0,cluster5
+7516,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+7556,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+7560,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+7575,Weekday,Evening,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+7645,Weekday,Evening,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+7653,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+7674,Weekday,Evening,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+7701,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+7732,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+7735,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','10 - No control','P.D. only','07 - SMV other',downtown,0,cluster5
+7736,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+7744,Weekday,Evening,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+7799,Weekday,Mid_Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','07 - SMV other',Ottawa_south,0,cluster5
+7813,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'03 - Rear end',mid_town,0,cluster5
+7815,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','05 - Turning movement',downtown,0,cluster5
+7819,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'03 - Rear end',Ottawa_west,0,cluster5
+7828,Weekends,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','07 - SMV other',mid_town,0,cluster5
+7879,Weekday,Noon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+7880,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+7882,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_east,0,cluster5
+7885,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+7889,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',mid_town,0,cluster5
+7895,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','10 - No control',Injury,'07 - SMV other',Ottawa_south,0,cluster5
+7897,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+7899,Weekday,Night,highway,'02 - Rain','01 - Daylight','02 - Wet','10 - No control',Injury,'07 - SMV other',Ottawa_west,0,cluster5
+7901,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+7913,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+7928,Weekday,Evening,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+7941,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+7951,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+7954,Weekday,Mid_Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',mid_town,0,cluster5
+7964,Weekday,Noon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,0,cluster5
+8086,Weekday,Evening,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+8092,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+8093,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+8102,Weekday,Evening,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+8122,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+8180,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+8206,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',Ottawa_south,0,cluster5
+8210,Weekday,Evening,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,2,cluster5
+8218,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+8251,Weekday,Night,Road,'01 - Clear','05 - Dusk','02 - Wet','10 - No control',Injury,'07 - SMV other',mid_town,0,cluster5
+8286,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+8291,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','08 - Traffic gate','P.D. only','07 - SMV other',Ottawa_south,0,cluster5
+8294,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',Ottawa_east,0,cluster5
+8319,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+8334,Weekends,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal','P.D. only','07 - SMV other',Ottawa_west,0,cluster5
+8361,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+8362,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',Ottawa_west,0,cluster5
+8377,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+8388,Weekends,Noon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',Ottawa_west,1,cluster5
+8432,Weekday,Early_Morning,Road,'01 - Clear','07 - Dark','02 - Wet','10 - No control','P.D. only','07 - SMV other',downtown,0,cluster5
+8451,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'03 - Rear end',Ottawa_south,0,cluster5
+8455,Weekday,Morning,Road,'07 - Fog/mist/smoke/dust','07 - Dark','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',downtown,0,cluster5
+8464,Weekday,Morning,Road,'01 - Clear','07 - Dark','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_south,0,cluster5
+8478,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_west,0,cluster5
+8480,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+8481,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_south,0,cluster5
+8482,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_west,0,cluster5
+8483,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_east,0,cluster5
+8484,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',mid_town,0,cluster5
+8485,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','07 - SMV other',mid_town,0,cluster5
+8540,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','05 - Turning movement',Ottawa_east,0,cluster5
+8542,Weekday,Noon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+8591,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+8602,Weekday,Noon,Road,'02 - Rain','03 - Dawn','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+8604,Weekday,Noon,highway,'02 - Rain','03 - Dawn','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+8607,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+8609,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+8612,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',mid_town,0,cluster5
+8625,Weekday,Evening,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+8627,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign',Injury,'05 - Turning movement',downtown,0,cluster5
+8628,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+8632,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',mid_town,0,cluster5
+8639,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',downtown,0,cluster5
+8640,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+8644,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+8705,Weekday,Noon,Road,'02 - Rain','07 - Dark','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',Ottawa_east,1,cluster5
+8706,Weekday,Noon,highway,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','05 - Turning movement',downtown,0,cluster5
+8708,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_east,0,cluster5
+8709,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','07 - SMV other',downtown,0,cluster5
+8714,Weekday,Evening,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',downtown,0,cluster5
+8729,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+8796,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',mid_town,1,cluster5
+8817,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_west,0,cluster5
+8825,Weekday,Noon,Road,'01 - Clear','03 - Dawn','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_south,0,cluster5
+8866,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',mid_town,0,cluster5
+8893,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+8912,Weekday,Mid_Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+9015,Weekends,Noon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+9054,Weekends,Night,highway,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',mid_town,0,cluster5
+9055,Weekends,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',downtown,0,cluster5
+9056,Weekends,Night,Road,'01 - Clear','05 - Dusk','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',mid_town,0,cluster5
+9064,Weekday,Afternoon,highway,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+9069,Weekday,Evening,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+9072,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'05 - Turning movement',mid_town,0,cluster5
+9074,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_west,0,cluster5
+9075,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+9079,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+9080,Weekday,Night,Road,'01 - Clear','05 - Dusk','02 - Wet','10 - No control','P.D. only','07 - SMV other',mid_town,0,cluster5
+9082,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',Ottawa_west,0,cluster5
+9083,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+9086,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+9131,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',mid_town,1,cluster5
+9139,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+9203,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+9240,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+9247,Weekday,Evening,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+9253,Weekday,Evening,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+9286,Weekends,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',mid_town,0,cluster5
+9290,Weekday,Noon,Road,'07 - Fog/mist/smoke/dust','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','07 - SMV other',Ottawa_west,0,cluster5
+9349,Weekends,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+9371,Weekends,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','03 - Yield sign','P.D. only','07 - SMV other',Ottawa_west,0,cluster5
+9384,Weekday,Noon,Road,'01 - Clear','03 - Dawn','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+9415,Weekday,Evening,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+9457,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'03 - Rear end',Ottawa_west,0,cluster5
+9458,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',mid_town,0,cluster5
+9460,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_west,0,cluster5
+9461,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign',Injury,'07 - SMV other',Ottawa_east,0,cluster5
+9465,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+9469,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',Ottawa_west,0,cluster5
+9474,Weekday,Evening,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',downtown,0,cluster5
+9478,Weekday,Evening,highway,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',Ottawa_west,0,cluster5
+9480,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',Ottawa_west,0,cluster5
+9491,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'02 - Angle',mid_town,0,cluster5
+9498,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_west,0,cluster5
+9561,Weekends,Afternoon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+9578,Weekends,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+9599,Weekday,Early_Morning,Road,'02 - Rain','07 - Dark','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+9600,Weekends,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',Ottawa_west,0,cluster5
+9617,Weekends,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,2,cluster5
+9657,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+9758,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',Ottawa_east,2,cluster5
+9763,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',mid_town,1,cluster5
+9857,Weekends,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',Ottawa_south,0,cluster5
+9886,Weekday,Night,Road,'01 - Clear','01 - Daylight','08 - Loose sand or gravel','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+9887,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+9923,Weekday,Evening,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+9942,Weekday,Evening,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+9993,Weekends,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'02 - Angle',Ottawa_west,0,cluster5
+10001,Weekday,Noon,Road,'02 - Rain','03 - Dawn','02 - Wet','02 - Stop sign','P.D. only','07 - SMV other',downtown,0,cluster5
+10003,Weekday,Early_Morning,Road,'01 - Clear','07 - Dark','02 - Wet','01 - Traffic signal','P.D. only','07 - SMV other',Ottawa_south,0,cluster5
+10005,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_west,0,cluster5
+10007,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_east,0,cluster5
+10009,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',Ottawa_west,1,cluster5
+10011,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'05 - Turning movement',mid_town,0,cluster5
+10015,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',Ottawa_west,0,cluster5
+10021,Weekday,Night,Road,'02 - Rain','07 - Dark','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_west,0,cluster5
+10071,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','99 - Other',mid_town,0,cluster5
+10106,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+10107,Weekday,Evening,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+10121,Weekday,Morning,Road,'01 - Clear','07 - Dark','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_east,0,cluster5
+10123,Weekday,Afternoon,Road,'06 - Strong wind','01 - Daylight','01 - Dry','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+10143,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+10171,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+10178,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+10221,Weekday,Noon,Road,'01 - Clear','03 - Dawn','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_west,0,cluster5
+10222,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+10226,Weekday,Night,highway,'01 - Clear','07 - Dark','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',downtown,0,cluster5
+10235,Weekday,Evening,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+10238,Weekday,Evening,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+10270,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign',Injury,'07 - SMV other',downtown,1,cluster5
+10281,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',Ottawa_west,0,cluster5
+10294,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',mid_town,0,cluster5
+10296,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',mid_town,0,cluster5
+10312,Weekends,Noon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal','P.D. only','07 - SMV other',Ottawa_west,0,cluster5
+10318,Weekday,Noon,Road,'02 - Rain','03 - Dawn','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_south,0,cluster5
+10336,Weekday,Night,Road,'02 - Rain','07 - Dark','02 - Wet','02 - Stop sign',Injury,'02 - Angle',downtown,0,cluster5
+10337,Weekday,Evening,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+10339,Weekday,Night,Road,'02 - Rain','07 - Dark','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_south,0,cluster5
+10346,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+10348,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+10419,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+10442,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_east,0,cluster5
+10443,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+10477,Weekday,Night,Road,'02 - Rain','07 - Dark','02 - Wet','02 - Stop sign',Injury,'02 - Angle',mid_town,0,cluster5
+10545,Weekends,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+10555,Weekday,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',mid_town,0,cluster5
+10585,Weekday,Night,Road,'01 - Clear','05 - Dusk','02 - Wet','10 - No control',Injury,'07 - SMV other',Ottawa_west,0,cluster5
+10594,Weekday,Noon,Road,'02 - Rain','03 - Dawn','02 - Wet','01 - Traffic signal',Injury,'02 - Angle',downtown,0,cluster5
+10595,Weekday,Noon,Road,'02 - Rain','03 - Dawn','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+10596,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_west,0,cluster5
+10599,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'03 - Rear end',downtown,0,cluster5
+10608,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_west,0,cluster5
+10635,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'05 - Turning movement',mid_town,0,cluster5
+10697,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',mid_town,0,cluster5
+10706,Weekday,Night,Road,'02 - Rain','07 - Dark','02 - Wet','01 - Traffic signal',Injury,'03 - Rear end',Ottawa_west,0,cluster5
+10745,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+10747,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',mid_town,1,cluster5
+10756,Weekday,Evening,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',Ottawa_south,0,cluster5
+10759,Weekday,Evening,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',downtown,0,cluster5
+10763,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'03 - Rear end',mid_town,0,cluster5
+10765,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign',Injury,'02 - Angle',Ottawa_south,0,cluster5
+10770,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_west,0,cluster5
+10771,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',downtown,0,cluster5
+10772,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','05 - Turning movement',Ottawa_east,0,cluster5
+10775,Weekday,Night,Road,'02 - Rain','05 - Dusk','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',mid_town,0,cluster5
+10777,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_east,0,cluster5
+10778,Weekday,Night,highway,'02 - Rain','05 - Dusk','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_west,0,cluster5
+10784,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',downtown,0,cluster5
+10785,Weekday,Night,Road,'02 - Rain','05 - Dusk','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_west,0,cluster5
+10787,Weekday,Night,Road,'02 - Rain','07 - Dark','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+10789,Weekday,Night,Road,'02 - Rain','05 - Dusk','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',Ottawa_east,0,cluster5
+10797,Weekday,Early_Morning,Road,'02 - Rain','07 - Dark','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+10800,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+10803,Weekday,Noon,Road,'02 - Rain','03 - Dawn','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_east,0,cluster5
+10804,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+10828,Weekends,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+10843,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'03 - Rear end',downtown,0,cluster5
+10844,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_south,0,cluster5
+10845,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','07 - SMV other',downtown,1,cluster5
+10848,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+10849,Weekday,Evening,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+10864,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+10873,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','01 - Traffic signal',Injury,'02 - Angle',mid_town,0,cluster5
+10883,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',downtown,0,cluster5
+10884,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'05 - Turning movement',mid_town,0,cluster5
+10885,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','10 - No control','P.D. only','07 - SMV other',downtown,0,cluster5
+10889,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'05 - Turning movement',mid_town,0,cluster5
+10895,Weekday,Evening,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+10964,Weekends,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',mid_town,0,cluster5
+11012,Weekday,Night,Road,'02 - Rain','07 - Dark','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+11043,Weekday,Evening,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+11080,Weekday,Noon,highway,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',mid_town,0,cluster5
+11083,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_east,0,cluster5
+11159,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_east,0,cluster5
+11164,Weekday,Noon,Road,'01 - Clear','03 - Dawn','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_east,0,cluster5
+11165,Weekday,Noon,Road,'01 - Clear','03 - Dawn','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+11166,Weekday,Noon,Road,'01 - Clear','03 - Dawn','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_east,0,cluster5
+11167,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+11168,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+11175,Weekday,Night,Road,'01 - Clear','05 - Dusk','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+11182,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',downtown,0,cluster5
+11185,Weekday,Night,Road,'03 - Snow','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','05 - Turning movement',downtown,0,cluster5
+11186,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+11189,Weekday,Night,Road,'01 - Clear','05 - Dusk','02 - Wet','10 - No control','P.D. only','07 - SMV other',downtown,0,cluster5
+11190,Weekday,Night,Road,'01 - Clear','05 - Dusk','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',downtown,0,cluster5
+11194,Weekday,Night,Road,'03 - Snow','07 - Dark','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+11196,Weekday,Night,Road,'02 - Rain','07 - Dark','02 - Wet','01 - Traffic signal',Injury,'03 - Rear end',Ottawa_west,0,cluster5
+11199,Weekday,Night,Road,'03 - Snow','07 - Dark','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',mid_town,0,cluster5
+11241,Weekday,Noon,Road,'03 - Snow','01 - Daylight','06 - Ice','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+11262,Weekday,Night,Road,'01 - Clear','01 - Daylight','04 - Slush','01 - Traffic signal','P.D. only','05 - Turning movement',downtown,0,cluster5
+11263,Weekday,Night,Road,'03 - Snow','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'05 - Turning movement',Ottawa_east,0,cluster5
+11269,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_west,0,cluster5
+11271,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+11277,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','01 - Traffic signal',Injury,'03 - Rear end',downtown,0,cluster5
+11295,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+11308,Weekday,Evening,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+11313,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'02 - Angle',downtown,0,cluster5
+11324,Weekday,Night,Road,'02 - Rain','05 - Dusk','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',downtown,0,cluster5
+11325,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+11331,Weekday,Night,Road,'02 - Rain','05 - Dusk','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_south,0,cluster5
+11339,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',mid_town,1,cluster5
+11344,Weekday,Night,Road,'01 - Clear','05 - Dusk','05 - Packed snow','01 - Traffic signal','P.D. only','99 - Other',mid_town,0,cluster5
+11350,Weekday,Night,Road,'02 - Rain','07 - Dark','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+11368,Weekends,Night,Road,'02 - Rain','05 - Dusk','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',downtown,0,cluster5
+11372,Weekends,Night,Road,'01 - Clear','07 - Dark','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+11377,Weekends,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',mid_town,0,cluster5
+11380,Weekday,Afternoon,Road,'03 - Snow','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'02 - Angle',downtown,0,cluster5
+11389,Weekday,Evening,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign',Injury,'07 - SMV other',downtown,1,cluster5
+11397,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign',Injury,'01 - Approaching',Ottawa_west,0,cluster5
+11399,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+11401,Weekday,Night,Road,'02 - Rain','05 - Dusk','02 - Wet','01 - Traffic signal','P.D. only','07 - SMV other',mid_town,0,cluster5
+11402,Weekday,Night,Road,'06 - Strong wind','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',mid_town,0,cluster5
+11406,Weekday,Night,Road,'02 - Rain','07 - Dark','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',Ottawa_south,0,cluster5
+11407,Weekday,Night,Road,'02 - Rain','05 - Dusk','02 - Wet','02 - Stop sign',Injury,'07 - SMV other',downtown,1,cluster5
+11408,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',Ottawa_east,0,cluster5
+11410,Weekday,Night,Road,'02 - Rain','05 - Dusk','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+11411,Weekday,Night,Road,'02 - Rain','07 - Dark','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_south,0,cluster5
+11412,Weekday,Night,Road,'02 - Rain','07 - Dark','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_west,0,cluster5
+11431,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','05 - Turning movement',Ottawa_east,0,cluster5
+11443,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',downtown,0,cluster5
+11463,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',Ottawa_west,0,cluster5
+11484,Weekday,Early_Morning,Road,'02 - Rain','07 - Dark','02 - Wet','10 - No control','P.D. only','07 - SMV other',downtown,0,cluster5
+11524,Weekday,Noon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+11541,Weekday,Evening,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+11567,Weekday,Evening,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+11608,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','07 - SMV other',Ottawa_south,0,cluster5
+11610,Weekday,Noon,highway,'01 - Clear','01 - Daylight','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_west,0,cluster5
+11617,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',mid_town,0,cluster5
+11618,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',Ottawa_east,0,cluster5
+11619,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'02 - Angle',downtown,0,cluster5
+11620,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',mid_town,0,cluster5
+11621,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',mid_town,0,cluster5
+11631,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+11632,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+11635,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+11637,Weekday,Night,Road,'02 - Rain','05 - Dusk','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',mid_town,0,cluster5
+11640,Weekday,Night,Road,'02 - Rain','05 - Dusk','02 - Wet','02 - Stop sign',Injury,'07 - SMV other',mid_town,1,cluster5
+11641,Weekday,Night,Road,'02 - Rain','05 - Dusk','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_west,0,cluster5
+11643,Weekday,Night,Road,'02 - Rain','07 - Dark','02 - Wet','01 - Traffic signal',Injury,'03 - Rear end',mid_town,0,cluster5
+11647,Weekday,Night,Road,'02 - Rain','07 - Dark','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+11648,Weekday,Night,Road,'02 - Rain','07 - Dark','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_east,0,cluster5
+11653,Weekday,Night,Road,'02 - Rain','07 - Dark','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+11654,Weekday,Night,Road,'02 - Rain','07 - Dark','02 - Wet','01 - Traffic signal',Injury,'03 - Rear end',Ottawa_east,0,cluster5
+11678,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+11686,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+11701,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+11702,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','02 - Stop sign',Injury,'02 - Angle',downtown,0,cluster5
+11704,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'02 - Angle',mid_town,0,cluster5
+11705,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',downtown,0,cluster5
+11706,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+11712,Weekday,Noon,Road,'01 - Clear','03 - Dawn','02 - Wet','09 - Traffic controller',Injury,'07 - SMV other',downtown,1,cluster5
+11723,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','07 - SMV other',mid_town,0,cluster5
+11738,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',downtown,0,cluster5
+11759,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',Ottawa_south,0,cluster5
+11886,Weekends,Night,Road,'02 - Rain','07 - Dark','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',downtown,2,cluster5
+11889,Weekends,Night,Road,'01 - Clear','07 - Dark','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',mid_town,1,cluster5
+11891,Weekends,Night,Road,'01 - Clear','07 - Dark','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+11901,Weekday,Morning,Road,'01 - Clear','07 - Dark','02 - Wet','10 - No control',Injury,'07 - SMV other',Ottawa_east,0,cluster5
+11902,Weekday,Noon,Road,'02 - Rain','03 - Dawn','02 - Wet','10 - No control','P.D. only','07 - SMV other',downtown,0,cluster5
+11911,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','05 - Turning movement',Ottawa_west,0,cluster5
+11918,Weekday,Evening,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+11984,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_south,0,cluster5
+11985,Weekday,Afternoon,Road,'03 - Snow','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','99 - Other',Ottawa_west,0,cluster5
+11986,Weekday,Afternoon,Road,'03 - Snow','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'03 - Rear end',downtown,0,cluster5
+11990,Weekday,Evening,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'02 - Angle',downtown,0,cluster5
+11999,Weekends,Night,Road,'03 - Snow','05 - Dusk','04 - Slush','01 - Traffic signal','P.D. only','02 - Angle',Ottawa_west,0,cluster5
+12005,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','01 - Traffic signal',Injury,'03 - Rear end',mid_town,0,cluster5
+12006,Weekday,Night,Road,'03 - Snow','07 - Dark','02 - Wet','02 - Stop sign','P.D. only','06 - SMV unattended vehicle',downtown,0,cluster5
+12008,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_south,0,cluster5
+12021,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',mid_town,0,cluster5
+12023,Weekday,Afternoon,Road,'07 - Fog/mist/smoke/dust','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',Ottawa_south,0,cluster5
+12024,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',mid_town,0,cluster5
+12029,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','99 - Other',Ottawa_west,0,cluster5
+12049,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',Ottawa_south,0,cluster5
+12051,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_south,0,cluster5
+12062,Weekday,Noon,Road,'01 - Clear','03 - Dawn','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_south,0,cluster5
+12064,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'04 - Sideswipe',mid_town,0,cluster5
+12066,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+12084,Weekday,Night,Road,'01 - Clear','05 - Dusk','03 - Loose snow','02 - Stop sign','P.D. only','07 - SMV other',Ottawa_west,0,cluster5
+12085,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+12086,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_west,0,cluster5
+12089,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',Ottawa_west,0,cluster5
+12102,Weekday,Night,Road,'02 - Rain','07 - Dark','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+12103,Weekday,Night,Road,'03 - Snow','01 - Daylight','03 - Loose snow','01 - Traffic signal','P.D. only','05 - Turning movement',downtown,0,cluster5
+12109,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_west,0,cluster5
+12118,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',Ottawa_east,0,cluster5
+12139,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','10 - No control','P.D. only','07 - SMV other',downtown,1,cluster5
+12144,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+12153,Weekday,Night,Road,'01 - Clear','05 - Dusk','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',mid_town,0,cluster5
+12178,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',Ottawa_west,0,cluster5
+12206,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','07 - SMV other',mid_town,0,cluster5
+12208,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',downtown,0,cluster5
+12214,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'04 - Sideswipe',downtown,0,cluster5
+12215,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','10 - No control','P.D. only','07 - SMV other',mid_town,0,cluster5
+12218,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',Ottawa_west,0,cluster5
+12243,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',Ottawa_west,0,cluster5
+12253,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','07 - SMV other',Ottawa_south,0,cluster5
+12262,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',mid_town,1,cluster5
+12265,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','99 - Other',downtown,0,cluster5
+12266,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',mid_town,0,cluster5
+12270,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+12281,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+12283,Weekday,Noon,Road,'01 - Clear','01 - Daylight','04 - Slush','01 - Traffic signal','P.D. only','04 - Sideswipe',Ottawa_south,0,cluster5
+12293,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+12325,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+12326,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+12334,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+12340,Weekday,Night,Road,'01 - Clear','01 - Daylight','03 - Loose snow','01 - Traffic signal','P.D. only','04 - Sideswipe',mid_town,0,cluster5
+12344,Weekday,Night,Road,'01 - Clear','01 - Daylight','04 - Slush','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+12347,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+12376,Weekday,Noon,Road,'01 - Clear','07 - Dark','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_west,0,cluster5
+12415,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+12426,Weekends,Early_Morning,Road,'01 - Clear','07 - Dark','02 - Wet','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+12495,Weekday,Night,Road,'02 - Rain','05 - Dusk','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',Ottawa_south,0,cluster5
+12499,Weekday,Afternoon,highway,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+12524,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','05 - Turning movement',Ottawa_south,0,cluster5
+12528,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',Ottawa_west,0,cluster5
+12532,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_west,0,cluster5
+12533,Weekday,Night,Road,'04 - Freezing Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+12535,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','03 - Yield sign','P.D. only','02 - Angle',Ottawa_east,0,cluster5
+12538,Weekday,Night,Road,'04 - Freezing Rain','05 - Dusk','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',Ottawa_west,0,cluster5
+12540,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_west,0,cluster5
+12542,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',Ottawa_east,0,cluster5
+12547,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+12551,Weekday,Early_Morning,Road,'01 - Clear','07 - Dark','02 - Wet','02 - Stop sign','P.D. only','07 - SMV other',downtown,0,cluster5
+12612,Weekday,Night,Road,'01 - Clear','05 - Dusk','02 - Wet','02 - Stop sign',Injury,'02 - Angle',Ottawa_south,0,cluster5
+12620,Weekday,Night,Road,'01 - Clear','05 - Dusk','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',Ottawa_east,0,cluster5
+12628,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+12632,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_west,0,cluster5
+12633,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','02 - Stop sign',Injury,'07 - SMV other',mid_town,1,cluster5
+12635,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','02 - Stop sign',Injury,'02 - Angle',Ottawa_south,0,cluster5
+12692,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'03 - Rear end',downtown,0,cluster5
+12721,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','01 - Traffic signal',Injury,'03 - Rear end',Ottawa_east,0,cluster5
+12772,Weekends,Afternoon,Road,'03 - Snow','01 - Daylight','05 - Packed snow','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+12801,Weekday,Night,Road,'03 - Snow','05 - Dusk','03 - Loose snow','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+12833,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+12834,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','10 - No control',Injury,'07 - SMV other',downtown,0,cluster5
+12837,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+12851,Weekday,Night,Road,'03 - Snow','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_south,0,cluster5
+12852,Weekday,Night,Road,'01 - Clear','01 - Daylight','04 - Slush','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+12859,Weekday,Night,Road,'01 - Clear','05 - Dusk','02 - Wet','02 - Stop sign',Injury,'07 - SMV other',downtown,1,cluster5
+12860,Weekday,Night,Road,'01 - Clear','05 - Dusk','02 - Wet','01 - Traffic signal',Injury,'05 - Turning movement',Ottawa_west,0,cluster5
+12862,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_west,0,cluster5
+12864,Weekday,Night,Road,'01 - Clear','05 - Dusk','03 - Loose snow','01 - Traffic signal','P.D. only','04 - Sideswipe',mid_town,0,cluster5
+12895,Weekends,Night,Road,'01 - Clear','01 - Daylight','04 - Slush','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+12912,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+12939,Weekday,Evening,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+12998,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+13023,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+13045,Weekday,Noon,Road,'02 - Rain','07 - Dark','02 - Wet','02 - Stop sign','P.D. only','07 - SMV other',downtown,0,cluster5
+13076,Weekends,Night,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal',Injury,'07 - SMV other',mid_town,1,cluster5
+13095,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','10 - No control',Injury,'07 - SMV other',downtown,0,cluster5
+13101,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','10 - No control','P.D. only','07 - SMV other',mid_town,0,cluster5
+13102,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',mid_town,0,cluster5
+13104,Weekday,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+13112,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'02 - Angle',mid_town,0,cluster5
+13122,Weekday,Evening,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+13160,Weekday,Noon,highway,'01 - Clear','01 - Daylight','02 - Wet','10 - No control','P.D. only','07 - SMV other',downtown,0,cluster5
+13182,Weekday,Night,highway,'01 - Clear','01 - Daylight','02 - Wet','10 - No control',Injury,'07 - SMV other',mid_town,0,cluster5
+13244,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+13249,Weekday,Morning,highway,'01 - Clear','07 - Dark','02 - Wet','10 - No control','P.D. only','07 - SMV other',downtown,0,cluster5
+13349,Weekday,Night,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'04 - Sideswipe',downtown,0,cluster5
+13355,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+13361,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+13367,Weekends,Afternoon,Road,'01 - Clear','01 - Daylight','01 - Dry','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+13389,Weekday,Early_Morning,Road,'01 - Clear','07 - Dark','02 - Wet','10 - No control','P.D. only','07 - SMV other',downtown,0,cluster5
+13404,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+13411,Weekday,Noon,Road,'02 - Rain','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','07 - SMV other',downtown,0,cluster5
+13413,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+13419,Weekday,Early_Morning,Road,'02 - Rain','07 - Dark','02 - Wet','10 - No control','P.D. only','07 - SMV other',downtown,0,cluster5
+13444,Weekday,Night,Road,'01 - Clear','05 - Dusk','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',mid_town,0,cluster5
+13445,Weekday,Afternoon,Road,'02 - Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+13446,Weekday,Afternoon,Road,'03 - Snow','01 - Daylight','04 - Slush','01 - Traffic signal','P.D. only','07 - SMV other',downtown,0,cluster5
+13588,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',Ottawa_east,0,cluster5
+13594,Weekday,Night,highway,'03 - Snow','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'03 - Rear end',Ottawa_west,0,cluster5
+13612,Weekday,Morning,highway,'02 - Rain','07 - Dark','02 - Wet','10 - No control','P.D. only','07 - SMV other',downtown,0,cluster5
+13682,Weekday,Night,Road,'01 - Clear','01 - Daylight','04 - Slush','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+13687,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',Ottawa_south,0,cluster5
+13691,Weekday,Night,Road,'04 - Freezing Rain','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_west,0,cluster5
+13696,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',mid_town,0,cluster5
+13699,Weekday,Night,Road,'01 - Clear','05 - Dusk','02 - Wet','02 - Stop sign','P.D. only','02 - Angle',Ottawa_east,0,cluster5
+13707,Weekday,Night,Road,'01 - Clear','07 - Dark','03 - Loose snow','01 - Traffic signal','P.D. only','07 - SMV other',Ottawa_west,1,cluster5
+13725,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',downtown,0,cluster5
+13727,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','05 - Packed snow','02 - Stop sign','P.D. only','07 - SMV other',Ottawa_west,0,cluster5
+13728,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+13736,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','07 - SMV other',downtown,0,cluster5
+13738,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','07 - SMV other',Ottawa_east,0,cluster5
+13749,Weekday,Afternoon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','03 - Rear end',Ottawa_south,0,cluster5
+13750,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',Ottawa_east,0,cluster5
+13752,Weekday,Night,Road,'01 - Clear','01 - Daylight','04 - Slush','01 - Traffic signal','P.D. only','05 - Turning movement',Ottawa_south,0,cluster5
+13754,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','07 - SMV other',Ottawa_east,0,cluster5
+13756,Weekday,Night,Road,'01 - Clear','01 - Daylight','04 - Slush','01 - Traffic signal','P.D. only','04 - Sideswipe',downtown,0,cluster5
+13807,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+13809,Weekday,Evening,Road,'01 - Clear','01 - Daylight','03 - Loose snow','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+13812,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',Ottawa_south,0,cluster5
+13813,Weekday,Evening,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+13818,Weekday,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','02 - Angle',downtown,0,cluster5
+13820,Weekday,Night,Road,'01 - Clear','05 - Dusk','04 - Slush','01 - Traffic signal',Injury,'07 - SMV other',Ottawa_east,1,cluster5
+13821,Weekday,Night,Road,'01 - Clear','05 - Dusk','02 - Wet','01 - Traffic signal','P.D. only','04 - Sideswipe',mid_town,0,cluster5
+13843,Weekends,Noon,Road,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',mid_town,0,cluster5
+13851,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_south,0,cluster5
+13884,Weekday,Night,Road,'03 - Snow','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','05 - Turning movement',Ottawa_south,0,cluster5
+13887,Weekday,Night,Road,'01 - Clear','07 - Dark','02 - Wet','01 - Traffic signal',Injury,'07 - SMV other',downtown,1,cluster5
+13918,Weekends,Night,Road,'01 - Clear','01 - Daylight','02 - Wet','02 - Stop sign','P.D. only','07 - SMV other',Ottawa_east,0,cluster5
+13945,Weekday,Noon,highway,'01 - Clear','01 - Daylight','02 - Wet','10 - No control',Injury,'07 - SMV other',downtown,0,cluster5
+14026,Weekday,Noon,highway,'02 - Rain','01 - Daylight','02 - Wet','10 - No control','P.D. only','07 - SMV other',downtown,0,cluster5
+14136,Weekday,Night,highway,'02 - Rain','01 - Daylight','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_east,0,cluster5
+14251,Weekday,Mid_Night,highway,'02 - Rain','05 - Dusk','02 - Wet','10 - No control',Injury,'07 - SMV other',downtown,0,cluster5
+14674,Weekday,Evening,highway,'01 - Clear','01 - Daylight','02 - Wet','01 - Traffic signal','P.D. only','07 - SMV other',Ottawa_west,0,cluster5
+14908,Weekday,Night,highway,'02 - Rain','01 - Daylight','02 - Wet','10 - No control','P.D. only','07 - SMV other',downtown,0,cluster5
+15062,Weekday,Afternoon,highway,'01 - Clear','01 - Daylight','02 - Wet','10 - No control','P.D. only','07 - SMV other',Ottawa_south,0,cluster5
+15150,Weekday,Noon,highway,'01 - Clear','01 - Daylight','02 - Wet','10 - No control','P.D. only','07 - SMV other',downtown,0,cluster5
